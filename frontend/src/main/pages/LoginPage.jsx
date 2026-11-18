@@ -54,6 +54,7 @@ export default function LoginPage() {
           >
             <Col sm="auto">
               <LoginCard />
+              <h2>Here is a visible and obvious change!.</h2>
             </Col>
           </Row>
         </Container>
